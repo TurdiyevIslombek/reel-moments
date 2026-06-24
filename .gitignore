@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+# Claude Code local preview config
+.claude/
